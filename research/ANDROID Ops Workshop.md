@@ -169,3 +169,48 @@ To monitor, evaluate, and prove the effectiveness of your workshops (or any prog
      - Use live polls or chat features during the workshop to gauge understanding and adjust on the fly.
 
 By implementing this MEL plan, you can effectively monitor and evaluate your workshops, proving their impact and identifying areas for improvement.
+
+---
+
+To create effective pre- and post-assessment questions that accurately measure participants' understanding and application of the ANDROID Ops framework, it's important to focus on specific skills and knowledge relevant to the workshops. Here’s a refined set of assessment questions tailored for each audience:
+
+### Pre-Assessment Questions
+
+1. **Understanding of ANDROID Ops**:
+   - What do you know about the ANDROID Ops framework? (Open-ended)
+   - Rate your familiarity with the following principles of ANDROID Ops (1-5 scale): Automation, Networking, Design, Research, Optimization, Implementation, Delivery.
+
+2. **Experience with LLMs**:
+   - Have you used any large language models (LLMs) before? If yes, please specify which ones and how you used them. (Open-ended)
+   - On a scale of 1-5, how comfortable are you using technology tools to enhance your work processes?
+
+3. **Current Challenges**:
+   - What are the biggest challenges you face in your current workflow or project management? (Open-ended)
+   - How do you currently gather insights or feedback for your projects? (Open-ended)
+
+### Post-Assessment Questions
+
+1. **Knowledge of ANDROID Ops**:
+   - Describe how you would apply the ANDROID Ops framework to your organization. (Open-ended)
+   - Which principle of ANDROID Ops do you find most applicable to your work, and why? (Open-ended)
+
+2. **Application of LLMs**:
+   - How did you use the LLM during the workshop? Provide an example of an insight or suggestion it generated for you. (Open-ended)
+   - Rate your comfort level with using LLMs to assist in project planning or problem-solving after the workshop (1-5 scale).
+
+3. **Implementation and Next Steps**:
+   - What specific actions will you take to implement the insights gained from the workshop? (Open-ended)
+   - How do you plan to measure the success of the changes you implement based on the ANDROID Ops framework? (Open-ended)
+
+### Additional Considerations
+
+- **Feedback on the Workshop**:
+   - What did you find most valuable about the workshop? (Open-ended)
+   - What improvements would you suggest for future workshops? (Open-ended)
+
+### Evaluation Strategy
+
+- **Quantitative Analysis**: Analyze the ratings from the pre- and post-assessments to measure knowledge gain and comfort with LLMs.
+- **Qualitative Analysis**: Review open-ended responses to identify common themes, insights, and areas for improvement.
+
+By focusing on specific knowledge and application skills, these assessments will provide a clearer picture of participants' learning outcomes and the effectiveness of the workshops.
