@@ -14,7 +14,12 @@ Key Levers by Priority
 
 1. **Activate partnerships with libraries and Discovery World**  
    - Begin on-the-ground workshops in Wood, Jackson, and Calhoun County Public Libraries.
-   - Train educators via the **Ignite Curiosity** program with ready-made modules.
+   - Train educators via the **Ignite Curiosity** program with ready-made modules. This may include:
+     - Low-Code/No-Code development workshops
+     - AI Literacy sessions using tools like Marisa AI, ChatGPT, and other LLMs
+     - Scientific Business Methods training using STAR Theory and ANDROID Ops
+     - Hands-on digital literacy training for public librarians and teachers
+     - STEAM-focused lesson design aligned with NSF’s "10 Big Ideas" (e.g., Convergence, Future of Work)
    - Provide AI/STEAM starter kits using existing Tao Learning Institute content.
 
 2. **Leverage Nonprofit Infrastructure (TLI + Focus Hive Inc)**  
