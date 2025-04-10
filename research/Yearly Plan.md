@@ -19,7 +19,9 @@ Key Levers by Priority
        - [Using CDX Platform](https://github.com/Zan-the-Reacher/Curiosity-in-Appalachia/blob/main/research/CDX_Low-Code_No-Code.md)
        - [Using Personal Outlook Email](https://github.com/Zan-the-Reacher/Curiosity-in-Appalachia/blob/main/research/Personal_LowCode_NoCode.md)
      - AI Literacy sessions using tools like Marisa AI, ChatGPT, and other LLMs
+       - [Hey Siri + Shortcodes](https://github.com/Zan-the-Reacher/Curiosity-in-Appalachia/blob/main/research/Hey%20Siri%20%2B%20Shortcodes.md)
      - Scientific Business Methods training using STAR Theory and ANDROID Ops
+       - [ANDROID Ops Workshop](https://github.com/Zan-the-Reacher/Curiosity-in-Appalachia/blob/main/research/ANDROID%20Ops%20Workshop.md)
      - Hands-on digital literacy training for public librarians and teachers
      - STEAM-focused lesson design aligned with NSF’s "10 Big Ideas" (e.g., Convergence, Future of Work)
    - Provide AI/STEAM starter kits using existing Tao Learning Institute content.
