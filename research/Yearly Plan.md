@@ -16,6 +16,8 @@ Key Levers by Priority
    - Begin on-the-ground workshops in Wood, Jackson, and Calhoun County Public Libraries.
    - Train educators via the **Ignite Curiosity** program with ready-made modules. This may include:
      - Low-Code/No-Code development workshops
+       - [Using CDX Platform](https://github.com/Zan-the-Reacher/Curiosity-in-Appalachia/blob/main/research/CDX_Low-Code_No-Code.md)
+       - [Using Personal Outlook Email](https://github.com/Zan-the-Reacher/Curiosity-in-Appalachia/blob/main/research/Personal_LowCode_NoCode.md)
      - AI Literacy sessions using tools like Marisa AI, ChatGPT, and other LLMs
      - Scientific Business Methods training using STAR Theory and ANDROID Ops
      - Hands-on digital literacy training for public librarians and teachers
